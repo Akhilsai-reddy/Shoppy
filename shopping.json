@@ -1,0 +1,65 @@
+{
+    "Products":[{
+      "id":1,
+      "url": "https://i0.wp.com/fashionbazzar.co.in/wp-content/uploads/2022/10/f17e17_835e5c27eb3f41aa9b6dfbc39d22c600mv2.jpg?fit=800%2C800&ssl=1",
+      "name": "Lehanga",
+      "category": "Lehangas",
+       "price": 1999
+  },
+  {
+    "id":2,
+   "url":"https://i.etsystatic.com/35842841/r/il/194e76/3983631188/il_1588xN.3983631188_9nhy.jpg",
+  "name": "Men Wine Classic Suits",
+   "category": "Suits",
+   "price": 2599
+  },
+  {
+    "id":3,
+  "url":" https://img6.gadgetsnow.com/gd/images/products/additional/original/G390794_View_1/mobiles/smartphones/apple-iphone-14-plus-128-gb-blue-4-gb-ram-.jpg",
+  "name": "Apple iphone 14 pro",
+   "price": 50000
+  },
+{
+  "id":4,
+   "url": "https://cdn.shopify.com/s/files/1/0632/1150/3847/products/image_cdb70079-4586-48ec-9ff4-773f9861e535_713x.jpg?v=1652598249",
+  "name": "Cups",
+   "category": "Cup",
+   "price": 500
+  },
+{
+  "id":5,
+"url": "https://rukminim1.flixcart.com/image/832/832/xif0q/screen-guard/screen-guard/f/h/j/muktrics-m1-smart-watch-for-men-women-boys-girls-touch-screen-original-imagg38ycsgrdaqe.jpeg?q=70",
+  "name": "Watch black",
+   "category": "Watches",
+   "price": 5000
+  },
+{
+  "id":6,
+  "url":"https://www.hilaptop.com/environment/cache/images/500_500_productGfx_5364.jpg",
+  "name": "Macbook pro",
+   "category": "Laptops",
+   "price": 100000
+}
+
+    ],
+    "users":[
+        {
+            "FirstName": "Sai",
+            "LastName": "Reddy",
+            "email": "akhil@wipro.com",
+            "PhoneNumber": 9988776655,
+            "Password": "Akhilsai123",
+            "Location": "bengalore",
+            "id": 1669029117492
+          },
+          {
+            "FirstName": "Akhilsai",
+            "LastName": "Reddy",
+            "email": "akhilsai@sai.com",
+            "PhoneNumber": 9988776655,
+            "Password": "Akhilsai@455",
+            "Location": "bengalore",
+            "id": 1669029117492
+          }
+    ]
+}
